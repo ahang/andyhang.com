@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "school": "Northwestern University",
+    "degree": "Full Stack Web Developer",
+    "link": "https://bootcamp.northwestern.edu/coding/",
+    "year": "Jan 2017 - Jul 2017"
+  },
+  {
+    "id": 2,
+    "school": "Udacity",
+    "degree": "Front End Developer Nanodegree",
+    "link": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001",
+    "year": "Jan 2016 - May 2016"
+  }
+]

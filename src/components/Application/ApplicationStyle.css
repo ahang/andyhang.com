@@ -1,0 +1,15 @@
+.application ul {
+  list-style: none;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+.card {
+  background-color: white;
+}
+
+.card-header {
+  background-color: white;
+}

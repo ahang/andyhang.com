@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "The Content Club",
+    "description": "To help people create a topic of interest and have active discussions.",
+    "link": "http://contentclub.herokuapp.com/",
+    "github": "https://github.com/ahang/ContentClub"
+  },
+  {
+    "id": 2,
+    "title": "Second Opinion",
+    "description": "To assists patients who desire additional advice on a sudden diagnosis and have been given a risky or intense treatment recommendations.",
+    "link": "http://secondopinionfinder.herokuapp.com/",
+    "github": "https://github.com/ahang/secondOpinion"
+  },
+  {
+    "id": 3,
+    "title": "The Almost Perfect Pick",
+    "description": "To assist users of Netflix to narrow down a good movie based on IMDB Rating of 6 or higher. More movie time and less browse time",
+    "link": "http://www.andyhang.com/project_ares/",
+    "github": "https://github.com/ahang/project_ares"
+  }
+]

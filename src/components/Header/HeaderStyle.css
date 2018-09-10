@@ -1,0 +1,36 @@
+.divHeaderStyle {
+  margin: auto;
+}
+
+.hrStyle {
+  margin-top: 100px;
+  margin-right: 40px;
+  margin-left: 40px;
+  margin-bottom: 50px;
+}
+
+.hrStyle-noMarginTop {
+  margin-right: 40px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.spanTextStyle {
+  font-weight: bold;
+}
+
+.socialLinksStyle {
+  flex-direction: column;
+}
+
+.socialLinkStyle ul {
+  list-style: none;
+}
+
+.socialLinksStyle li {
+  padding: 0 20px 0 0;
+}
+
+.socialLinksStyle li a {
+  font-size: 20px;
+}

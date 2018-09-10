@@ -1,0 +1,22 @@
+[
+  {
+    "type": "linkedin",
+    "class": "fab fa-linkedin",
+    "link": "https://www.linkedin.com/in/andy-hang-492057102/"
+  },
+  {
+    "type": "github",
+    "class": "fab fa-github-alt",
+    "link": "https://www.github.com/ahang"
+  },
+  {
+    "type": "resume",
+    "class": "far fa-file-pdf",
+    "link": "http://www.andyhang.com/min-portfolio/resume.pdf"
+  },
+  {
+    "type": "email",
+    "class": "far fa-envelope",
+    "link": "mailto:hang.andy.t@gmail.com"
+  }
+]
