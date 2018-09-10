@@ -9,7 +9,6 @@ class Work extends Component {
       return (
         <li key={work.id}>
           <a href={work.website} target="_">
-            {' '}
             {work.company}
           </a>
           <p className="experienceTextStyle">{work.experience}</p>
@@ -20,7 +19,7 @@ class Work extends Component {
   }
   render() {
     return (
-      <div className="col-md-6 work">
+      <div className="col-md-4 work">
         <ul>
           <h5>Work</h5>
           {this.renderWorkHistory()}

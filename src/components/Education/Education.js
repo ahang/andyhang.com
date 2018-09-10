@@ -20,7 +20,7 @@ class Education extends Component {
   }
   render() {
     return (
-      <div className="col-md-6 edu">
+      <div className="col-md-4 edu">
         <ul>
           <h5>Education</h5>
           {this.renderEducation()}
