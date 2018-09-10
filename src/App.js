@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <div className="container">
         <Header />
-        <div className="col-md-12 row centerAddMargin">
+        <div className="col-md-10 row centerAddMargin">
           <Work />
           <Education />
         </div>
