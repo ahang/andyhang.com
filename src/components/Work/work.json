@@ -1,9 +1,16 @@
 [
   {
+    "id": 0,
+    "company": "Discover Fiancial Services",
+    "website": "https://www.discover.com/",
+    "experience": "Dec 2018 - Present",
+    "title": "Programmer"
+  },
+  {
     "id": 1,
     "company": "LLT Group",
     "website": "https://www.llt-group.com/",
-    "experience": "Jul 2017 - Present",
+    "experience": "Jul 2017 - Dec 2018",
     "title": "Web Application Developer"
   },
   {
