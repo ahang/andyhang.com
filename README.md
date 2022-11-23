@@ -5,7 +5,7 @@ Full stack developer based in Niles, Illinois.
 
 [Lenovo](https://www.lenovo.com/us/en/) 
 **Software Engineer** - (*Oct 2021 - Present*) - Remote
-Working on [LanSchool Air](https://lanschool.com/) using 
+Working on [LanSchool Air](https://lanschool.com/) 
 Tech Stack: Angular, TypeScript, Tailwind CSS, Express, MongoDB, Redis, Jenkins, Jest
 
 [Discover Financial Services](https://www.discover.com) 
